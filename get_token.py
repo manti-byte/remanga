@@ -28,6 +28,6 @@ def get_token(username, password, recaptcha_response):
 
 username = "YOUR_USERNAME"
 password = "YOUR_PASSWORD"
-recaptcha_response = "WITHOUT_TOKEN"  # Этот токен должен быть действующим
+recaptcha_response = "WITHOUT_TOKEN" 
 
 get_token(username, password, recaptcha_response)
