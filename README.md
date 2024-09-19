@@ -1,0 +1,2 @@
+# remanga
+Remanga requests softs
